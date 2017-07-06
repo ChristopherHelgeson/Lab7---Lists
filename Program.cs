@@ -88,6 +88,7 @@ namespace Lab7___Lists
             x.Add("Stephani");
             x.Add("Kelsey");
             x.Add("Tommy");
+            //x.Add("Added Later");
 
             //for (int i = 0; i < x.Count; i++)
             //{
@@ -114,6 +115,7 @@ namespace Lab7___Lists
             x.Add("kiwi fruit");
             x.Add("lox");
             x.Add("mangoes");
+            //x.Add("added fruit");
 
             //for (int i = 0; i < x.Count; i++)
             //{
@@ -140,6 +142,7 @@ namespace Lab7___Lists
             x.Add("Kalamazoo");
             x.Add("Logan");
             x.Add("Milwaukee");
+            //x.Add("Added City");
 
             //for (int i = 0; i < x.Count; i++)
             //{
