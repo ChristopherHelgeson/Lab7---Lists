@@ -1,0 +1,6 @@
+c:\users\chris\documents\visual studio 2015\Projects\Lab7 - Lists\Lab7 - Lists\bin\Debug\Lab7 - Lists.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\Lab7 - Lists\Lab7 - Lists\bin\Debug\Lab7 - Lists.exe
+c:\users\chris\documents\visual studio 2015\Projects\Lab7 - Lists\Lab7 - Lists\bin\Debug\Lab7 - Lists.pdb
+c:\users\chris\documents\visual studio 2015\Projects\Lab7 - Lists\Lab7 - Lists\obj\Debug\Lab7 - Lists.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\Lab7 - Lists\Lab7 - Lists\obj\Debug\Lab7 - Lists.exe
+c:\users\chris\documents\visual studio 2015\Projects\Lab7 - Lists\Lab7 - Lists\obj\Debug\Lab7 - Lists.pdb
